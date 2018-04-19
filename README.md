@@ -24,7 +24,7 @@ composer require kloppz/lumen-generator @dev
 Inside your `bootstrap/app.php` file, add:
 
 ```php
-$app->register(Kloppz\LumenGenerator\LumenGeneratorServiceProvider::class);
+$app->register(Flipbox\LumenGenerator\LumenGeneratorServiceProvider::class);
 ```
 
 ## Available Command
