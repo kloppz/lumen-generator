@@ -17,7 +17,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Flipbox\\LumenGenerator\\": "src/LumenGenerator/"
+            "Kloppz\\LumenGenerator\\": "src/LumenGenerator/"
         }
     }
 }
