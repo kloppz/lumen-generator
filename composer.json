@@ -1,5 +1,5 @@
 {
-    "name": "flipbox/lumen-generator",
+    "name": "kloppz/lumen-generator",
     "description": "A Lumen Generator You Are Missing",
     "type": "library",
     "require": {
@@ -11,8 +11,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Krisan Alfa Timur",
-            "email": "krisan47@gmail.com"
+            "name": "Carlos Lopez",
+            "email": "cloaction@gmail.com"
         }
     ],
     "autoload": {
