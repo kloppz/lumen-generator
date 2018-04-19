@@ -1,4 +1,7 @@
+
 # Lumen Generator
+
+> **NOTES** Based In Flipboxstudio/lumen-generator
 
 [![Total Downloads](https://poser.pugx.org/flipbox/lumen-generator/d/total.svg)](https://packagist.org/packages/flipbox/lumen-generator)
 [![Latest Stable Version](https://poser.pugx.org/flipbox/lumen-generator/v/stable.svg)](https://packagist.org/packages/flipbox/lumen-generator)
@@ -13,7 +16,7 @@ If yes, then you're in the right place.
 To use _some_ generators command in Lumen (just like you do in Laravel), you need to add this package:
 
 ```sh
-composer require flipbox/lumen-generator
+composer require kloppz/lumen-generator @dev
 ```
 
 ## Configuration
@@ -21,7 +24,7 @@ composer require flipbox/lumen-generator
 Inside your `bootstrap/app.php` file, add:
 
 ```php
-$app->register(Flipbox\LumenGenerator\LumenGeneratorServiceProvider::class);
+$app->register(Kloppz\LumenGenerator\LumenGeneratorServiceProvider::class);
 ```
 
 ## Available Command
